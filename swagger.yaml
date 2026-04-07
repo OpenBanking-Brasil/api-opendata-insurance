@@ -2,7 +2,7 @@ openapi: 3.0.0
 info:
   title: API Seguros - Open Finance Brasil
   description: |
-    As APIs descritas neste documento são referentes a API de Seguros da fase OpenInsurance do Open Finance Brasil.
+    As APIs descritas neste documento são referentes a API de Seguros da fase OpenInsurance do Open Finance Brasil. 
   version: 2.1.0
   license:
     name: Apache 2.0
